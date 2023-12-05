@@ -1,11 +1,11 @@
 {
-  "account"   : "",
-  "user"      : "USER####",
-  "password"  : "",
-  "role"      : "ROLE_USER####",
-  "warehouse" : "WH_XS_USER####",
-  "database"  : "DB_USER####",
+  "account"   : "ramyanna12",
+  "user"      : "USER0103",
+  "password"  : "Ramyramy5566?",
+  "role"      : "ROLE_USER0103",
+  "warehouse" : "WH_XS_USER0103",
+  "database"  : "DB_USER0103",
   "schema"    : "SCHEMA_LLM",
-  "compute_pool" : "COMPUTE_POOL_USER####",
-  "huggingface_token": ""
+  "compute_pool" : "COMPUTE_POOL_USER0103",
+  "huggingface_token": "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"
 }
